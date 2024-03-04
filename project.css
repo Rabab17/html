@@ -1,0 +1,249 @@
+    body{
+        margin: 0;
+        padding: 0;
+        background-color: #f4f4f4;
+
+    }
+    #on {
+    border: 2px solid black;
+    background-color: black;
+
+}
+
+.one {
+
+    color: white;
+    width: 100px;
+    margin: 5px;
+}
+
+.one:hover {
+    background: white;
+    color: black;
+
+}
+
+#tw {
+    border-bottom: 2px solid rgb(248, 245, 245);
+    background-color: white;
+    width: 100%;
+    position: fixed;
+}
+
+.two {
+
+    color: black;
+    font-weight: 900;
+    font-size: 20px;
+    display: inline-block;
+    position: relative;
+    top: -15px;
+
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.two:hover{
+    color:red;
+    text-decoration: underline ;
+}
+
+#icon {
+    width: 50px;
+    height: 50px;
+}
+
+#paragraph {
+    font-size:40px;
+    
+    font-weight: 800;
+
+
+}
+
+#par {
+    width: 500px;
+    font-weight: 500;
+    font-size:larger;
+
+}
+
+#vodafon {
+    float: right;
+    width: 900px;
+}
+
+#three {
+    padding: 100px;
+    background-color: white;
+    
+}
+
+button {
+    color: white;
+    background-color: red;
+    color: rgba(red, red, red, 0.5);
+    border: 1px groove white;
+    border-radius: 5px;
+    padding: 15px;
+    font-weight: bold;
+}
+#vodaf{
+    width:100%; 
+}
+
+#vod{
+   
+    width:100%; 
+    height: 150px;  
+    margin: 0px;
+    padding: 50px;    
+                                                                       
+}
+#flex{
+    background-color: white;
+    border-radius: 2px;
+    border-color:red;
+    padding: 15px;
+    margin: 5px;
+    /* height:20px; */
+    
+    
+    
+}
+#flexx{
+background-color: white;
+    width: 500px;
+    height: 200p;
+    
+    clear: left;
+
+}
+#fle{
+    background-color: white;
+    font-size:x-large ;
+   
+    font-family: vodafone-regular-en,sans-serif;
+}
+
+#fl{
+    background-color: white;
+    font-size: large;
+    font-family: vodafone-regular-en,sans-serif;
+}
+#cas{
+    
+    
+    padding: 0px;
+    margin: 0px;
+   
+  
+   
+    
+}
+
+#cash{
+    width:300px; 
+    height: 150px; 
+    float: right;
+    background-color: #fff;
+    border-radius: 6px;
+    margin-bottom: 2rem;
+    position: relative;
+    margin: 4px;
+    padding: 5px;
+    
+    
+}
+.VodafoneCash{
+
+    font-family: vodafone-regular-en,sans-serif;
+    float:right;
+
+}
+#vd{
+    background-color: white;
+    border-radius: 2px;
+    padding: 15px;
+    margin: 5px;
+    width: 500px;
+    height: 200px;
+    border:1px solid red;
+    border-radius: 5px;
+    
+}
+#DSL{
+    float:left;
+    width: 520px;
+    height: 200px;
+    margin-bottom: 2rem;
+    position: relative;
+    margin: 4px;
+    padding: 5px;
+    display: flex;
+    background-color: white;
+    border:1px solid red;
+    border-radius: 5px;
+    
+    
+}
+.vodafondsl{
+    width: 100px;
+    height: 100px;
+    
+    
+
+
+}
+.E-Wallet{
+    font-family: vodafone-regular-en,sans-serif;
+    
+   
+
+}
+
+#final{
+    background-color: black;
+    width: 1350px;
+    height: 300px;
+    border-radius: 2px;
+    position: relative;
+    padding: 30px;
+    text-align: center;
+    margin-left: 0;
+    padding-left: 0 ;
+}
+#fina{
+    color: white;
+    float:left;
+    margin-left: 150px;
+   
+    
+    
+}
+#f{
+    color: white;
+    float:left;
+    margin-left: 150px;
+   
+}
+.fin{
+    color: white;
+    text-decoration: none;
+    margin-left: 150px;
+   
+}
+.fi{
+    color: white;
+    text-decoration: none;
+   
+}
+#al{
+    float:left;  
+}
+#cont{
+    display: flex;
+    background-color:  #f4f4f4;}
+    .link{
+       text-decoration: none;
+       color: white;
+    }
